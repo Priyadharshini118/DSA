@@ -37,5 +37,5 @@ public class subarrays_of_arraya {
 //3 
 //3 4 
 //4 
-//checking main
+//checking main1
 
